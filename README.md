@@ -5,3 +5,4 @@ The files included:
 Jupyter Notebook - .ipynb notebook
 and
 Report - .docx document in IEEE format
+Data set link : https://archive.ics.uci.edu/dataset/256/daily+and+sports+activities
